@@ -13,7 +13,7 @@ from pathlib import Path
 from flask import Flask, abort, jsonify, render_template, send_file
 
 HERE = Path(__file__).resolve().parent
-PROJECT = Path(os.environ.get("URBAN_HEAT_PROJECT_ROOT", str(HERE.parent))).expanduser().resolve()
+PROJECT = PROJECT = HERE
 app = Flask(__name__)
 app.json.sort_keys = False
 
