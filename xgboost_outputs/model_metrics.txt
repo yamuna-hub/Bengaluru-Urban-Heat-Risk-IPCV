@@ -1,0 +1,5 @@
+Texture-Enhanced XGBoost Results
+Accuracy: 0.9759
+Precision: 0.9759
+Recall: 0.9759
+F1 Score: 0.9759

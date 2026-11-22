@@ -1,0 +1,12 @@
+earthengine-api
+geemap
+numpy
+pandas
+opencv-python
+scipy
+matplotlib
+rasterio
+scikit-learn
+xgboost
+joblib
+folium

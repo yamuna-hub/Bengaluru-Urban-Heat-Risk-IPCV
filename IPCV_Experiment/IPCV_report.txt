@@ -1,0 +1,6 @@
+Original input: urban_heat_project_outputs/landsat_multiband.tif
+Median filtering
+CLAHE enhancement
+Sobel edge detection
+Local variance texture extraction
+Original Earth Engine model and scores not modified.

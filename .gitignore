@@ -1,0 +1,14 @@
+﻿.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+credentials.json
+*service-account*.json
+*.pem
+*.tif
+*.tiff
+*.zip
+.vscode/
